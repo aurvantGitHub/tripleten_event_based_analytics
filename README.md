@@ -1,4 +1,4 @@
-# Event-based analytics
+# Event-based analytics for online foodstore
 
 This project is part of Tripleten's Data Analytics Bootcamp. It is the second integrated project and comprises a sample of the skills acquired throughout the program (Python, data preprocessing, exploratory data analysis, statistical analysis, business analysis, and data explanation).
 
@@ -10,7 +10,7 @@ The project is done on a Jupyter notebook and has the comments, results, explana
 
 Thank you very much!
 
-# Análisis basado en eventos
+# Análisis basado en eventos para tienda online de productos alimenticios
 
 Este proyecto forma parte del programa Data Analytics Bootcamp de Tripleten. Es el segundo proyecto integrado y comprende una muestra de las habilidades adquiridas a lo largo del programa (Python, preprocesamiento de datos, análisis exploratorio de datos, análisis estadístico, análisis de negocio y explicación de datos).
 
